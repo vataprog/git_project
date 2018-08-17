@@ -12,7 +12,7 @@ function osszeadas($a,$b){
     
 }
 
-echo "<br/>Összeadás:";
+echo "<br/>Összeadás:" . osszeadas(1,2);
 
 /* Kivonás */
 
