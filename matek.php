@@ -10,6 +10,7 @@ echo "Matematikai alapműveletek";
 
 function kivonas($a,$b){
 
+    return $a-$b;
     
 }
 
