@@ -4,4 +4,8 @@
 
 echo "Matematikai alapműveletek";
 
+/* Összeadás */
+
+/* Kivonás */
+
 ?>
