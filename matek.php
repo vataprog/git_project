@@ -8,4 +8,9 @@ echo "Matematikai alapműveletek";
 
 /* Kivonás */
 
+function kivonas($a,$b){
+
+    
+}
+
 ?>
