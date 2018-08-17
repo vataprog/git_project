@@ -16,4 +16,12 @@ echo "<br/>Összeadás:" . osszeadas(1,2);
 
 /* Kivonás */
 
+function kivonas($a,$b){
+
+    return $a-$b;
+    
+}
+
+echo "<br/>Kivonás: ".kivonas(1,2) ;
+
 ?>
