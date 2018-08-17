@@ -14,4 +14,6 @@ function kivonas($a,$b){
     
 }
 
+echo "<br/>Kivonás:";
+
 ?>
