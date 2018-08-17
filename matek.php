@@ -6,6 +6,10 @@ echo "Matematikai alapműveletek";
 
 /* Összeadás */
 
+function osszeadas($a,$b){
+    
+}
+
 /* Kivonás */
 
 ?>
