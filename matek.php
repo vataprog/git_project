@@ -22,11 +22,13 @@ function kivonas($a,$b){
     
 }
 
-echo "<br/>Kivonás: ".kivonas(1,2) ;
+echo "<br/>Kivonás: ".kivonas(1,2);
 
 function szorzas($a,$b){
 
-    
+    return $a*$b;
 }
+
+echo "<br/>Szorzas: ".szorzas(1,2);
 
 ?>
