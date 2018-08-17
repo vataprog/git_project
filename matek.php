@@ -12,6 +12,8 @@ function osszeadas($a,$b){
     
 }
 
+echo "<br/>Összeadás:";
+
 /* Kivonás */
 
 ?>
